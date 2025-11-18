@@ -1,7 +1,8 @@
-streamlit
-pandas
-os
-pymysql
-psycopg2
-dotenv
-huggingface-hub
+dotenv==0.9.9
+huggingface-hub==0.35.3
+numpy==2.3.3
+pandas==2.3.3
+psycopg2==2.9.11
+PyMySQL==1.1.2
+streamlit==1.50.0
+tabulate
