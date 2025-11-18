@@ -1,0 +1,7 @@
+streamlit
+pandas
+os
+pymysql
+psycopg2
+dotenv
+huggingface-hub
