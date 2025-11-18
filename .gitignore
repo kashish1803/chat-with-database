@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*      # any env variants
+.venv/
+venv/
+.venv/
+.Pipfile.lock
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# virtualenv and distribution files
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit cache or other caches
+.streamlit/
